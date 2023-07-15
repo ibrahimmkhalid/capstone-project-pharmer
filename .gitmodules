@@ -1,0 +1,12 @@
+[submodule "pharmer-embedded-primary"]
+	path = pharmer-embedded-primary
+	url = https://github.com/pharmer-fyp/pharmer-embedded-primary
+[submodule "pharmer-mobile-application"]
+	path = pharmer-mobile-application
+	url = https://github.com/pharmer-fyp/pharmer-mobile-application
+[submodule "pharmer-embedded-secondary"]
+	path = pharmer-embedded-secondary
+	url = https://github.com/pharmer-fyp/pharmer-embedded-secondary
+[submodule "pharmer-ml-web-platform"]
+	path = pharmer-ml-web-platform
+	url = https://github.com/pharmer-fyp/pharmer-ml-web-platform
